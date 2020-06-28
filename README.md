@@ -1,5 +1,14 @@
 # COVID-19-Chest-X-Ray-Infection-Classification
 
+![Stars](https://img.shields.io/github/stars/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification.svg?style=social)
+![Forks](https://img.shields.io/github/forks/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification.svg?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification.svg)
+![Language](https://img.shields.io/github/languages/top/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification.svg)
+[![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](https://vedantkhairnar.ml)
+[![HitCount](http://hits.dwyl.io/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification.svg)](http://hits.dwyl.io/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification)
+![Issues](https://img.shields.io/github/issues/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification)
+![PRsWelcome](https://img.shields.io/badge/PRs-welcome-informational)
+
 ## What is RestNet
 
 ResNet is a short name for Residual Network. As the name of the network indicates, the new terminology that this network introduces is residual learning.
