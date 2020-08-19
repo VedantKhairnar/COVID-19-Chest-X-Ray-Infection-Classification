@@ -1,4 +1,4 @@
-# COVID-19-Chest-X-Ray-Infection-Classification
+# Chest-X-Ray-COVID-19-Detection using Monk AI
 
 ![Stars](https://img.shields.io/github/stars/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification.svg?style=social)
 ![Forks](https://img.shields.io/github/forks/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification.svg?style=social)
