@@ -9,6 +9,9 @@
 ![Issues](https://img.shields.io/github/issues/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification)
 ![PRsWelcome](https://img.shields.io/badge/PRs-welcome-informational)
 
+## Newspaper Article 
+![https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification/blob/master/extras/hitavada.jpg](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification/blob/master/extras/hitavada.jpg)
+
 ## What is RestNet
 
 ResNet is a short name for Residual Network. As the name of the network indicates, the new terminology that this network introduces is residual learning.
